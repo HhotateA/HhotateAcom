@@ -12,21 +12,21 @@ layout: default
 [![GottaniShader](images/item00.png)](items/GottaniShader.md) [![DanceVFX](images/item01.png)](items/DanceVFX.md) [![TrailPen](images/item02.png)](items/TrailPen.md) [![EmojiParticle](images/item03.png)](items/EmojiParticle.md) [![TailMover](images/item04.png)](items/TailMover.md) [![MagicDresser](images/item05.png)](items/MagicDresser.md) [![EmoteMotion](images/item06.png)](items/EmoteMotion.md) [![pHindicator](images/item07.png)](items/pHindicator.md) [![Dakimakura](images/item08.png)](items/Dakimakura.md) [![TextureModify](images/item09.png)](items/TextureModify.md) [![MeshModify](images/item10.png)](items/MeshModify.md)
 
 ## Notes
-[モデルのアウトラインのみを描写するシェーダー](_posts/blog01.md)  
+[モデルのアウトラインのみを描写するシェーダー](pages/blog01.md)  
 
-[0から始めるQuestビルド](_posts/blog02.md)  
+[0から始めるQuestビルド](pages/blog02.md)  
 
-[波長ベース色空間【光の波長をRGBに変換】](_posts/blog03.md)  
+[波長ベース色空間【光の波長をRGBに変換】](pages/blog03.md)  
 
-[【Unity】GoogleDriveからVRMファイルをインポートする](_posts/blog04.md)  
+[【Unity】GoogleDriveからVRMファイルをインポートする](pages/blog04.md)  
 
-[【Unity】Humanoidモデルの手の形を制御する](_posts/blog05.md)  
+[【Unity】Humanoidモデルの手の形を制御する](pages/blog05.md)  
 
-[自分の部屋をデジタル空間に持っていった話](_posts/blog06.md)  
+[自分の部屋をデジタル空間に持っていった話](pages/blog06.md)  
 
-[オブジェクト形状に合ったフィルターをシェーダーで実装する](_posts/blog07.md)  
+[オブジェクト形状に合ったフィルターをシェーダーで実装する](pages/blog07.md)  
 
-[CameraDepthTextureからワイヤーフレームを計算する](_posts/blog08.md)  
+[CameraDepthTextureからワイヤーフレームを計算する](pages/blog08.md)  
 
 ## 自己紹介
 　主にVRChatを中心にVRの創作活動をしています。 最近はARやMRも含めたxR全般のデバイスを触っています。
