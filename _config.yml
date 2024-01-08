@@ -1,0 +1,11 @@
+title: 帆立の貝殻
+email: seitokainohotta@gmail.com
+description: ほたてねこまじんのウェブサイト
+baseurl: ''
+url: ''
+twitter_username: HhotateA_xR
+github_username: HhotateA
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
