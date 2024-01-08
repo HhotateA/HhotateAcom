@@ -20,7 +20,7 @@ layout: default
 
 [【Unity】GoogleDriveからVRMファイルをインポートする](blogs/page04.html)  
 
-[【Unity】Humanoidモデルの手の形を制御する](blogs/page05.html)  
+[【Unity】Humanoidモデルの手の形を制御する](https://qiita.com/HhotateA/items/e4d240fbf9a95683b706)  
 
 [自分の部屋をデジタル空間に持っていった話](blogs/page06.html)  
 
