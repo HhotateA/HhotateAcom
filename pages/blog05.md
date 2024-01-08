@@ -1,11 +1,12 @@
 ---
-title: 【Unity】Humanoidモデルの手の形を制御する
+title: Humanoidモデルの手の形を制御する
 layout: default
 ---
 
-#概要
+# 概要
  VRMのアバターに対応した指制御が欲しかった
-#説明
+
+# 説明
 　こんなの
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">指の形制御できた！<br>(VRChatパクって)Humanoid依存にしたので、大体のアバターで調節なしで使えるはず！ <a href="https://t.co/M0f9fmOG0l">pic.twitter.com/M0f9fmOG0l</a></p>&mdash; ほたて猫魔人 (@HhotateA_xR) <a href="https://twitter.com/HhotateA_xR/status/1159122456029741056?ref_src=twsrc%5Etfw">August 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 #コード
@@ -96,7 +97,7 @@ public class HumanoidHandPose : MonoBehaviour{
 }
 ```
 
-#使い方
+# 使い方
 　HumanoidのAnimatorと同じ階層にAddComponentすれば自動設定される。
 
 >public Shape _RightShape = 0;
@@ -105,7 +106,7 @@ public class HumanoidHandPose : MonoBehaviour{
 あたりを他のスクリプトから制御するといい。
 アナログじゃなくて選択式にしたのは、ネットワーク的な扱いやすさから。
 
-#おまけ(OVRInputの処理)
+# おまけ(OVRInputの処理)
 要OculusIntegration
 よしなに
 
@@ -164,7 +165,7 @@ public class OVRInputShapeKey : MonoBehaviour{
 }
 ```
 
-#参考
+# 参考
 ありがとうございました。
 
 【Unity】スクリプトからキャラクターのボーンを制御する準備 (備忘録)
