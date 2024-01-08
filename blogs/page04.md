@@ -1,15 +1,16 @@
 ---
-title: 【Unity】GoogleDriveからVRMファイルをインポートする
+title: GoogleDriveからVRMファイルをインポートする
 layout: default
 ---
 
-#概要
+# 概要
 VRoidHubに頼りたくないとき用
-#こんなかんじ
+
+# こんなかんじ
 こんなかんじ
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">関係ないけど猫になりたい <a href="https://t.co/Iyx2bu6yJ3">pic.twitter.com/Iyx2bu6yJ3</a></p>&mdash; ほたて猫魔人 (@HhotateA_xR) <a href="https://twitter.com/HhotateA_xR/status/1158605196080979968?ref_src=twsrc%5Etfw">August 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-#コード
+# コード
 
 ```c#:VRMDownloader.cs
 using UnityEngine;
@@ -89,7 +90,8 @@ public class VRMDownloader : MonoBehaviour {
     }
 }
 ```
-#使いかた
+# 使いかた
  LoadVRMfromURL(string url)を呼び出す。
-#工夫したとこ
+
+# 工夫したとこ
 googleのURLを変換した。

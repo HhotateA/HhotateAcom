@@ -9,24 +9,24 @@ layout: default
  Skebアピール募集中！[猫魔家](https://charas.hhotatea.com)  
 
 ## Items
-[![GottaniShader](images/item00.png)](items/GottaniShader.md) [![DanceVFX](images/item01.png)](items/DanceVFX.md) [![TrailPen](images/item02.png)](items/TrailPen.md) [![EmojiParticle](images/item03.png)](items/EmojiParticle.md) [![TailMover](images/item04.png)](items/TailMover.md) [![MagicDresser](images/item05.png)](items/MagicDresser.md) [![EmoteMotion](images/item06.png)](items/EmoteMotion.md) [![pHindicator](images/item07.png)](items/pHindicator.md) [![Dakimakura](images/item08.png)](items/Dakimakura.md) [![TextureModify](images/item09.png)](items/TextureModify.md) [![MeshModify](images/item10.png)](items/MeshModify.md)
+[![GottaniShader](images/item00.png)](items/GottaniShader.html) [![DanceVFX](images/item01.png)](items/DanceVFX.html) [![TrailPen](images/item02.png)](items/TrailPen.html) [![EmojiParticle](images/item03.png)](items/EmojiParticle.html) [![TailMover](images/item04.png)](items/TailMover.html) [![MagicDresser](images/item05.png)](items/MagicDresser.html) [![EmoteMotion](images/item06.png)](items/EmoteMotion.html) [![pHindicator](images/item07.png)](items/pHindicator.html) [![Dakimakura](images/item08.png)](items/Dakimakura.html) [![TextureModify](images/item09.png)](items/TextureModify.html) [![MeshModify](images/item10.png)](items/MeshModify.html)
 
 ## Notes
-[モデルのアウトラインのみを描写するシェーダー](pages/blog01.md)  
+[モデルのアウトラインのみを描写するシェーダー](blogs/page01.html)  
 
-[0から始めるQuestビルド](pages/blog02.md)  
+[0から始めるQuestビルド](blogs/page02.html)  
 
-[波長ベース色空間【光の波長をRGBに変換】](pages/blog03.md)  
+[波長ベース色空間【光の波長をRGBに変換】](blogs/page03.html)  
 
-[【Unity】GoogleDriveからVRMファイルをインポートする](pages/blog04.md)  
+[【Unity】GoogleDriveからVRMファイルをインポートする](blogs/page04.html)  
 
-[【Unity】Humanoidモデルの手の形を制御する](pages/blog05.md)  
+[【Unity】Humanoidモデルの手の形を制御する](https://qiita.com/HhotateA/items/e4d240fbf9a95683b706)  
 
-[自分の部屋をデジタル空間に持っていった話](pages/blog06.md)  
+[自分の部屋をデジタル空間に持っていった話](blogs/page06.html)  
 
-[オブジェクト形状に合ったフィルターをシェーダーで実装する](pages/blog07.md)  
+[オブジェクト形状に合ったフィルターをシェーダーで実装する](blogs/page07.html)  
 
-[CameraDepthTextureからワイヤーフレームを計算する](pages/blog08.md)  
+[CameraDepthTextureからワイヤーフレームを計算する](blogs/page08.html)  
 
 ## 自己紹介
 　主にVRChatを中心にVRの創作活動をしています。 最近はARやMRも含めたxR全般のデバイスを触っています。

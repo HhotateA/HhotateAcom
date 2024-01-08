@@ -1,20 +1,21 @@
 ---
-title: 波長ベース色空間【光の波長をRGBに変換】
+title: 波長ベース色空間
 layout: default
 ---
 
 ![659afc172f18b7f95b8b82d68341a168.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/392903/90244b49-18eb-f45b-f20f-ee17e5728014.png)
-#概要
+
+# 概要
 　色の表現方法にはRGBやHSVなどがあり、これらは人間が色を認識するL・M・S錐体がそれぞれ赤・緑・青に反応することに基づいて色を表現しています。
 　たしかにRGBやHSVは人間の目に映るあらゆる色を表現できるのですが、この空間で色を変化させても不規則に明るさが変化したりしてそんなにきれいには見えないと思います。
 　そこで今回は光の波長をRGBに変換する関数を紹介します。これを使ってきれいな虹色を表現してください！
 ![92e6dbfe950f8c631cbfb4519fed6132.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/392903/fefcd68c-dd15-1359-5866-0170a0112095.png)
 
-#コード
+# コード
 波長とRGBの対応表はCIE1931色空間(http://cvrl.ucl.ac.uk/cmfs.htm) に基づいています。
 このコードはShaderLabですが書き換えればGLSLでもHLSLでも使えるはず。。。
 
-##HLSL
+## HLSL
 
 ```c#:Wave2RGB.cginc
 //data on http://cvrl.ucl.ac.uk/cmfs.htm
@@ -217,17 +218,18 @@ Shader "HOTATE/Rainbow" {
 }
 ```
 
-##GLSL
+## GLSL
 
 ```glsl:wave2rgb
 ```
 
 ![e1dc2f6d8c60262c9926dcaee8bdeea4.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/392903/aa6cc329-2d58-5773-3b89-cd6b9ce7744f.gif)
 
-#解説
+# 解説
 　多段階線形補完みたいな方法使っているので、これは他にも応用できそう・・・
 　波長方式だと単純にはループさせられないので、ここはひと工夫必要かと思います。
-#サンプル
+
+# サンプル
 虹サンプルのgithubリポジトリ
 
 https://github.com/HhotateA/RainbowColor_Shaderlab
