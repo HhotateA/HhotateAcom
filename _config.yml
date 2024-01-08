@@ -1,11 +1,28 @@
 title: 帆立の貝殻
 email: seitokainohotta@gmail.com
 description: ほたてねこまじんのウェブサイト
-baseurl: ''
-url: ''
+url: https://hhotatea.com
 twitter_username: HhotateA_xR
 github_username: HhotateA
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
-  - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-avatar
+  - jekyll-relative-links
+  - jekyll-gist
+  - jekyll-sitemap
+  - jemoji
+markdown: GFM
+commonmark:
+  options:
+    - UNSAFE
+    - SMART
+    - FOOTNOTES
+  extensions:
+    - autolink
+    - strikethrough
+    - table
+    - tagfilter
+
+google_analytics: G-514KTPNGCB
