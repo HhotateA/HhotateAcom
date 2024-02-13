@@ -5,8 +5,9 @@ layout: default
 
 ## Profile
  おれんじじゅーすを飲むきゅーけつきです！ฅ(＾・ω・＾ฅ)   
- VR・ARでの創作活動お手伝いします！ [ポートフォリオ](https://work.hhotatea.com)  
- Skebアピール募集中！[猫魔家](https://charas.hhotatea.com)  
+ #VR  #STYLY  #TRPG
+
+ [![work](logos/work.png)](https://work.hhotatea.com)  [![chara](logos/chara.png)](https://charas.hhotatea.com) [![skeb](logos/skeb.png)](https://skeb.jp/@HhotateA_xR) [![booth](logos/booth.png)](https://hhotatea.booth.pm/) [![twitter](logos/twitter.png)](https://twitter.com/HhotateA_xR) [![qiita](logos/qiita.png)](https://qiita.com/HhotateA) [![github](logos/github.png)](https://github.com/HhotateA) [![discord](logos/discord.png)](https://discord.gg/G6fMeAEutg)
 
 ## Items
 [![GottaniShader](images/item00.png)](items/GottaniShader.html) [![DanceVFX](images/item01.png)](items/DanceVFX.html) [![TrailPen](images/item02.png)](items/TrailPen.html) [![EmojiParticle](images/item03.png)](items/EmojiParticle.html) [![TailMover](images/item04.png)](items/TailMover.html) [![MagicDresser](images/item05.png)](items/MagicDresser.html) [![EmoteMotion](images/item06.png)](items/EmoteMotion.html) [![pHindicator](images/item07.png)](items/pHindicator.html) [![Dakimakura](images/item08.png)](items/Dakimakura.html) [![TextureModify](images/item09.png)](items/TextureModify.html) [![MeshModify](images/item10.png)](items/MeshModify.html)
