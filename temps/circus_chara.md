@@ -73,6 +73,8 @@ layout: default
 - 地球平面説っぽい半球＋ガラスドームに全体が包まれている
 - ドームの中にサーカス名「ALF LAYLAH」の文字
 
+[ロゴ清書資料1](../images/kasumotsu_logo1.png)  
+[ロゴ清書資料2](../images/kasumotsu_logo1.png)
 
 <a id="link"></a>
 ## キャラクターシート
