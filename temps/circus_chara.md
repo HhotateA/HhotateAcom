@@ -74,7 +74,7 @@ layout: default
 - ドームの中にサーカス名「ALF LAYLAH」の文字
 
 [ロゴ清書資料1](../images/kasumotsu_logo1.png)  
-[ロゴ清書資料2](../images/kasumotsu_logo1.png)
+[ロゴ清書資料2](../images/kasumotsu_logo2.png)
 
 <a id="link"></a>
 ## キャラクターシート
